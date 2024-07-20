@@ -1,6 +1,6 @@
 # Registration-and-Login-System
 <h2>Description</h2>
-This project is a simple User Management System implemented using Object-Oriented Programming (OOP) principles in C++. The system allows for user registration, user login, viewing all users, searching for a specific user, and deleting users. This can serve as a foundational project for understanding OOP concepts and user management functionalities.
+This project is a simple User Management System implemented using Object-Oriented Programming (OOPS) principles in C++. The system allows for user registration, user login, viewing all users, searching for a specific user, and deleting users. This can serve as a foundational project for understanding OOPS concepts and user management functionalities.
 
 <h2>Features</h2>
 <b>User Registration:</b> Register a new user with a username and password.</br>
